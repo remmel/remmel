@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My main 2 ✨ projects :
+- [ComparaBUS](https://www.comparabus.com/fr/) : compares 🚌 🚆 ✈️ 🚘 tickets
+- [Metalograms](https://www.metalograms.com) : volumetric 📹 video 🕸️⏯️ webplayer for VR users / opensource 📖 some part of it
+
 <!--
 **remmel/remmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
